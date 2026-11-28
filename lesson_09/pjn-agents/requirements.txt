@@ -1,0 +1,10 @@
+python-dotenv
+langchain-core
+langchain-google-genai
+langchain
+pydantic
+todoist-api-python
+tzdata
+wikipedia
+langchain-community
+pypdf
